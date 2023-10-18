@@ -1,0 +1,15 @@
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.deps.json
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.runtimeconfig.json
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.dll
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/bin/Debug/net6.0/HelloFromCSharp.pdb
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.csproj.AssemblyReference.cache
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.AssemblyInfoInputs.cache
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.AssemblyInfo.cs
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.csproj.CoreCompileInputs.cache
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.dll
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/refint/HelloFromCSharp.dll
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.pdb
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/HelloFromCSharp.genruntimeconfig.cache
+/Users/erosnolasco-mendoza/Documents(non-iCloud)/VS/HelloFromCSharp/HelloFromCSharp/obj/Debug/net6.0/ref/HelloFromCSharp.dll
